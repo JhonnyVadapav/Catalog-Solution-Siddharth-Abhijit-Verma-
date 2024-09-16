@@ -1,3 +1,4 @@
 #Step to run the code:
-- g++ -o lagrange_solver first.cpp -Iinclude
+- g++ -o lagrange_solver solution.cpp -Iinclude
 - ./lagrange_solver
+  
